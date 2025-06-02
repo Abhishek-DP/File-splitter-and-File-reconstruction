@@ -113,8 +113,7 @@ Abhishek -
 Project Link: https://github.com/Abhishek-DP/File-splitter-and-File-reconstruction
 <!-- ACKNOWLEDGEMENTS -->
 Acknowledgements
-
-    reedsolo library
+* reedsolo library
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/Abhishek-DP/File-splitter-and-File-reconstruction.svg?style=for-the-badge
